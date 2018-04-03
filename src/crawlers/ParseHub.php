@@ -1,6 +1,6 @@
 <?php
 
-namespace IPShark\Crawlers\SDK;
+namespace Shark\Crawlers;
 
 use GuzzleHttp\Client;
 use Illuminate\Support\Fluent;
