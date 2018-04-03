@@ -1,0 +1,21 @@
+{
+    "name": "ipshark/crawlers-sdk",
+    "description": "Unofficial PHP SDK for ParseHub",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Becky Chu",
+            "email": "beckyc@ipshark.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "illuminate/support": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "IPShark\\Crawlers\\SDK\\": "src/crawlers"
+        }
+    }
+}
