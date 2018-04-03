@@ -1,6 +1,6 @@
 <?php
 
-namespace Shark\Crawlers;
+namespace Shark\ParseHub;
 
 use GuzzleHttp\Client;
 use Illuminate\Support\Fluent;
